@@ -1,0 +1,14 @@
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\bin\Debug\net8.0\DesafioOne.exe
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\bin\Debug\net8.0\DesafioOne.deps.json
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\bin\Debug\net8.0\DesafioOne.runtimeconfig.json
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\bin\Debug\net8.0\DesafioOne.dll
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\bin\Debug\net8.0\DesafioOne.pdb
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\obj\Debug\net8.0\DesafioOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\obj\Debug\net8.0\DesafioOne.AssemblyInfoInputs.cache
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\obj\Debug\net8.0\DesafioOne.AssemblyInfo.cs
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\obj\Debug\net8.0\DesafioOne.csproj.CoreCompileInputs.cache
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\obj\Debug\net8.0\DesafioOne.dll
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\obj\Debug\net8.0\refint\DesafioOne.dll
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\obj\Debug\net8.0\DesafioOne.pdb
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\obj\Debug\net8.0\DesafioOne.genruntimeconfig.cache
+C:\PERSONAL\C# Study\Section3\DesafioOne\DesafioOne\obj\Debug\net8.0\ref\DesafioOne.dll

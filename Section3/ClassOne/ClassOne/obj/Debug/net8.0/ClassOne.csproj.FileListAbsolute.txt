@@ -1,0 +1,14 @@
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\bin\Debug\net8.0\ClassOne.exe
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\bin\Debug\net8.0\ClassOne.deps.json
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\bin\Debug\net8.0\ClassOne.runtimeconfig.json
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\bin\Debug\net8.0\ClassOne.dll
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\bin\Debug\net8.0\ClassOne.pdb
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.AssemblyInfoInputs.cache
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.AssemblyInfo.cs
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.csproj.CoreCompileInputs.cache
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.dll
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\obj\Debug\net8.0\refint\ClassOne.dll
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.pdb
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\obj\Debug\net8.0\ClassOne.genruntimeconfig.cache
+C:\PERSONAL\C# Study\Section3\ClassOne\ClassOne\obj\Debug\net8.0\ref\ClassOne.dll
