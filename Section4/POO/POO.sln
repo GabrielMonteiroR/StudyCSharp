@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{9DB2F460-0220-49D4-A8E8-E3C755905B99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToString", "ToString\ToString.csproj", "{3ADA6144-F026-45CF-BF0A-7E4328530BEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DB2F460-0220-49D4-A8E8-E3C755905B99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB2F460-0220-49D4-A8E8-E3C755905B99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB2F460-0220-49D4-A8E8-E3C755905B99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB2F460-0220-49D4-A8E8-E3C755905B99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ADA6144-F026-45CF-BF0A-7E4328530BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ADA6144-F026-45CF-BF0A-7E4328530BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ADA6144-F026-45CF-BF0A-7E4328530BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ADA6144-F026-45CF-BF0A-7E4328530BEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
