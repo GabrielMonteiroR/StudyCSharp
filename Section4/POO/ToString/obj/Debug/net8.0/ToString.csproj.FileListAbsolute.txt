@@ -1,0 +1,15 @@
+C:\PERSONAL\C# Study\Section4\POO\ToSTRING\obj\Debug\net8.0\ToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\PERSONAL\C# Study\Section4\POO\ToSTRING\obj\Debug\net8.0\ToString.AssemblyInfoInputs.cache
+C:\PERSONAL\C# Study\Section4\POO\ToSTRING\obj\Debug\net8.0\ToString.AssemblyInfo.cs
+C:\PERSONAL\C# Study\Section4\POO\ToSTRING\obj\Debug\net8.0\ToString.csproj.CoreCompileInputs.cache
+C:\PERSONAL\C# Study\Section4\POO\ToSTRING\obj\Debug\net8.0\ToString.sourcelink.json
+C:\PERSONAL\C# Study\Section4\POO\ToString\bin\Debug\net8.0\ToString.exe
+C:\PERSONAL\C# Study\Section4\POO\ToString\bin\Debug\net8.0\ToString.deps.json
+C:\PERSONAL\C# Study\Section4\POO\ToString\bin\Debug\net8.0\ToString.runtimeconfig.json
+C:\PERSONAL\C# Study\Section4\POO\ToString\bin\Debug\net8.0\ToString.dll
+C:\PERSONAL\C# Study\Section4\POO\ToString\bin\Debug\net8.0\ToString.pdb
+C:\PERSONAL\C# Study\Section4\POO\ToString\obj\Debug\net8.0\ToString.dll
+C:\PERSONAL\C# Study\Section4\POO\ToString\obj\Debug\net8.0\refint\ToString.dll
+C:\PERSONAL\C# Study\Section4\POO\ToString\obj\Debug\net8.0\ToString.pdb
+C:\PERSONAL\C# Study\Section4\POO\ToString\obj\Debug\net8.0\ToString.genruntimeconfig.cache
+C:\PERSONAL\C# Study\Section4\POO\ToString\obj\Debug\net8.0\ref\ToString.dll
